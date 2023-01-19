@@ -1,0 +1,27 @@
+.food {
+    color: blanchedalmond;
+    background-color: darkolivegreen;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    width: 75%;
+    margin: auto
+}
+
+.center {
+    display: block;
+   margin: auto;
+   width: 75%;
+}
+
+#title {
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 5px;
+    color: blanchedalmond;
+}
+
+body {
+    background-color: darkslategray;
+}
