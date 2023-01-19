@@ -8,6 +8,14 @@
     margin: auto
 }
 
+.recipe {
+    width: auto;
+}
+
+.instructions {
+    font-size: 35px;
+}
+
 .center {
     display: block;
    margin: auto;
@@ -22,6 +30,13 @@
     color: blanchedalmond;
 }
 
+.large {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
 body {
     background-color: darkslategray;
+    color: beige;
+    line-height: 1.5;
 }
